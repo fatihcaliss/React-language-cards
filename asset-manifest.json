@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-language-cards/static/css/main.901dd687.css",
+    "main.css": "/React-language-cards/static/css/main.a23d5948.css",
     "main.js": "/React-language-cards/static/js/main.dbca1486.js",
     "static/js/787.3b132c0f.chunk.js": "/React-language-cards/static/js/787.3b132c0f.chunk.js",
     "static/media/php.png": "/React-language-cards/static/media/php.c767c5711b90ad735bbf.png",
@@ -12,12 +12,12 @@
     "static/media/java.png": "/React-language-cards/static/media/java.a507ef793e957ee9b476.png",
     "static/media/cpp.png": "/React-language-cards/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
     "index.html": "/React-language-cards/index.html",
-    "main.901dd687.css.map": "/React-language-cards/static/css/main.901dd687.css.map",
+    "main.a23d5948.css.map": "/React-language-cards/static/css/main.a23d5948.css.map",
     "main.dbca1486.js.map": "/React-language-cards/static/js/main.dbca1486.js.map",
     "787.3b132c0f.chunk.js.map": "/React-language-cards/static/js/787.3b132c0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.901dd687.css",
+    "static/css/main.a23d5948.css",
     "static/js/main.dbca1486.js"
   ]
 }
