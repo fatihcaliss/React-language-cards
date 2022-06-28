@@ -13,7 +13,8 @@
 img{
     transition: all 2s;
 }
-.cardItem>img:hover{
+
+img:hover{
     transform: scale(1.2);
 }
 
