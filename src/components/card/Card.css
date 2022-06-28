@@ -1,0 +1,29 @@
+.cardItem{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    transition: all 2s;
+    background-color: aliceblue;
+    border-radius: 1rem;
+}
+
+img{
+    transition: all 2s;
+}
+.cardItem>img:hover{
+    transform: scale(1.2);
+}
+
+.cardSection{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.cardList{
+    display: none;
+}
